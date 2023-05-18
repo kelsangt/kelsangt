@@ -8,6 +8,11 @@
 - 😄 Pronouns: He/Him
 - ❗️ Fun fact: My first and last names are the same length!
 
+
+[![Kelsang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelsangt&theme=buefy)](https://github.com/kelsangt/github-readme-stats)
+
+
+
 <a href="https://www.linkedin.com/in/kelsang-tsering/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
