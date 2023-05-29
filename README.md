@@ -9,7 +9,7 @@
 - ❗️ Fun fact: My first and last names are the same length!
 
 
-[![Kelsang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelsangt&theme=buefy)](https://github.com/kelsangt/github-readme-stats)
+[![Kelsang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelsangt&theme=buefy&hide_rank=true)](https://github.com/kelsangt/github-readme-stats)
 [![Kelsang's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelsangt&size_weight=0.5&count_weight=0.5)](https://github.com/kelsangt/github-readme-stats)
 
 
