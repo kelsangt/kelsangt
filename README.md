@@ -10,6 +10,7 @@
 
 
 [![Kelsang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelsangt&theme=buefy)](https://github.com/kelsangt/github-readme-stats)
+[![Kelsang's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelsangt&size_weight=0.5&count_weight=0.5)](https://github.com/kelsangt/github-readme-stats)
 
 
 
@@ -19,7 +20,6 @@
 
 ### Languages and Technologies 
 
-<img align="left" width=30px src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"/>
 <img align="left" width=30px src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg"/>
 <img align="left" width=30px src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/ruby/ruby-original.svg"/>
 <img align="left" width=30px src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg"/>
@@ -35,3 +35,4 @@
 <img align="left" width=30px src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg"/>
 <img align="left" width=30px src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg"/>
 <img align="left" width=30px src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/babel/babel-original.svg"/>
+<img align="left" width=30px src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg"/>
