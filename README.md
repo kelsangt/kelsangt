@@ -1,12 +1,12 @@
-### Hi, I'm Kelsang 😃
-
+### Hi, I'm Kelsang 🙂
 <img align="right" width=350px height=200px src="https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-947663966-e1621956778415.jpg?fit=4728%2C2364&strip=all"/>
 
 - 🏃🏻‍♂️ I’m currently working on getting better at running
 - 💻 I’m currently learning more about programming every day 
 - 💬 Ask me about React/Redux
 - 😄 Pronouns: He/Him
-- ❗️ Fun fact: My first and last names are the same length!
+- 🤔 Fun fact: My first and last names are the same length!
+- ❗️ Let's talk about full stack development
 
 
 ![Kelsang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelsangt&theme=buefy&hide_rank=true)
