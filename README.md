@@ -6,7 +6,7 @@
 - 💬 Ask me about React/Redux
 - 😄 Pronouns: He/Him
 - 🤔 Fun fact: My first and last names are the same length!
-- ❗️ Let's talk about full stack development
+- ❗️ Let's talk about full stack development and test driven development!
 
 
 ![Kelsang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelsangt&theme=buefy&hide_rank=true)
