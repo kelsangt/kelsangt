@@ -1,5 +1,5 @@
 ### Hi, I'm Kelsang 🙂
-<img align="right" width=380px height=230px src="https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-947663966-e1621956778415.jpg?fit=4728%2C2364&strip=all"/>
+<img align="right" width=370px height=220px src="https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-947663966-e1621956778415.jpg?fit=4728%2C2364&strip=all"/>
 
 - 🏃🏻‍♂️ I’m currently working on getting better at running
 - 💻 I’m currently learning more about programming every day 
