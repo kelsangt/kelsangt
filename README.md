@@ -9,8 +9,7 @@
 - ❗️ Let's talk about full stack development and test driven development!
 
 
-![Kelsang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelsangt&theme=buefy&hide_rank=true)
-![Kelsang's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kelsangt&size_weight=0.5&count_weight=0.5)
+
 
 
 
