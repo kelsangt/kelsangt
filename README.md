@@ -1,12 +1,13 @@
 ### Hi, I'm Kelsang 🙂
-<img align="right" width=410px height=250px src="https://venturebeat.com/wp-content/uploads/2021/05/GettyImages-947663966-e1621956778415.jpg?fit=4728%2C2364&strip=all"/>
+
+<img align="right" width=500px height=200px src="https://media.licdn.com/dms/image/D4E16AQGX2syNt_QVJw/profile-displaybackgroundimage-shrink_350_1400/0/1682986102253?e=1719446400&v=beta&t=X6XfVs9HV5J4kpMuNjHRqVmSML5W67i4kQBuHBGMxfo"/>
 
 - 🏃🏻 I’m currently working on getting better at running
 - 💻 I’m currently learning more about programming every day 
-- 💬 Ask me about React/Redux
+- 💬 Ask me about Data Engineering
 - 😄 Pronouns: He/Him
 - 🤔 Fun fact: My first and last names are the same length!
-- ❗️ Let's talk about full stack development and test driven development!
+- ❗️ Let's talk about data pipelines and ETL processes!
 
 
 ![Kelsang's GitHub stats](https://github-readme-stats.vercel.app/api?username=kelsangt&hide_rank=true&theme=buefy)
