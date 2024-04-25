@@ -1,6 +1,6 @@
 ### Hi, I'm Kelsang 🙂
 
-<img align="right" width=500px height=200px src="https://media.licdn.com/dms/image/D4E16AQGX2syNt_QVJw/profile-displaybackgroundimage-shrink_350_1400/0/1682986102253?e=1719446400&v=beta&t=X6XfVs9HV5J4kpMuNjHRqVmSML5W67i4kQBuHBGMxfo"/>
+<img align="right" width=410px height=350px src="https://tinyurl.com/4rbwnyjs"/>
 
 - 🏃🏻 I’m currently working on getting better at running
 - 💻 I’m currently learning more about programming every day 
